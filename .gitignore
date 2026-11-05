@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.idea/
+.vscode/
+target/
+node_modules/
+dist/
+build/
+.gradle/
